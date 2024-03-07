@@ -1,0 +1,19 @@
+.bg-darkgreen{
+    background-color: $darkgreen;
+}
+.bg-dark-gradient{
+    background: linear-gradient(90deg, #1C2949 0%, #1C2949 186.22%);
+}
+.text-card{
+    color: $strongblue;
+    font-size: 15px;
+}
+.container-brand{
+    padding-left: 39px !important;
+    padding-right: 39px !important;
+}
+.white-line{
+    border: 1px solid #C6C6C6;
+    width: 100%;
+    margin-bottom: 16px;
+}
